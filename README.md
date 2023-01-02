@@ -8,7 +8,6 @@ I'm Yufa. I am a Software Engineer focusing on protecting users’ mental health
 - 🤔 I’m on the look out for Software Engineer opportunities promoting mental wellness and improving employee experience. 
 - 📫 How to reach me: Find me on my [website](https://yufa-li.com/), or Connect with me on [LinkedIn](https://www.linkedin.com/in/yufa-li/)
 - ⚡ Fun fact: As a Meditation Teacher, I am committed to Integrating mindfulness in the workplace.
-- 
 
 <!--
 **01001101CK/01001101CK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
