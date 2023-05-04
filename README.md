@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [a “smart” shopping list app](https://github.com/the-collab-lab/tcl-61-smart-shopping-list) that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store. 
 
-- 🌱 I’m currently learning **Firebase.**
+- 🌱 I’m currently learning **Python and Firebase.**
 
 - 👯 I’m looking to collaborate on **open source projects that make the world more accessible and promote mental health**
 
 - 🤝 I’m looking for help with **finding a Software Engineer opportunities promoting mental wellness and improving user experience**
 
-- 💬 Ask me about **react, javascript and SQL.**
+- 💬 Ask me about **React, Javascript and SQL.**
 
 - ⚡ Fun fact **As a Meditation Teacher, I am committed to Integrating mindfulness in the workplace.**
 
