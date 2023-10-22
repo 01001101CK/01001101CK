@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: she/her/hers 
 
-- 🔭 I’m currently working on [a “smart” shopping list app](https://github.com/the-collab-lab/tcl-61-smart-shopping-list) that learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store. 
+- 🔭 I’m currently working on [a safe and supportive community for women](https://github.com/thrive-her/thrive-her-mvp) to discuss our unique challenges, such as perinatal and postpartum support, parenting, fertility, body image, and mental health and connect with specialized therapists.
 
 - 🌱 I’m currently learning **Python and Firebase.**
 
